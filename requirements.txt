@@ -1,0 +1,16 @@
+torch
+torch.nn.functional
+optuna
+numpy
+datasets
+sqlalchemy
+sqlalchemy.ext.declarative
+sqlalchemy.orm
+transformers
+pydantic
+sklearn
+sklearn.metrics
+sklearn.model_selection
+passlib
+fastapi
+pandas
